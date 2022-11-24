@@ -10,11 +10,11 @@ import { Link } from 'react-router-dom';
 
 
  const About =()=> {
-    // const URLParams = useParams();
     const params = useParams();
     const [data,setData]=useState([]);
      
-    let currentBlog = [];
+   const  currentBlog = Articles.find(item => item.id === Number(params.id))
+
 
     useEffect(()=>{
       axios.get(`http://localhost:8080/home/bollywood/${params.id}`)
@@ -27,7 +27,6 @@ import { Link } from 'react-router-dom';
        })
   
     })
-    currentBlog = Articles.find(item => item.id === Number(params.id))
   
 
 
