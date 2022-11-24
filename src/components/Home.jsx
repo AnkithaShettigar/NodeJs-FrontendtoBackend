@@ -7,7 +7,7 @@ import { mainPage} from "./Articles";
 import Bottompage from "./Bottompage";
 import { AiOutlineMenu,AiOutlineClose} from "react-icons/ai";
 import { useRef ,useState , useEffect} from "react";
-import { Articles } from "./Articles";
+// import { Articles } from "./Articles";
 
 const Home = () =>{
   const navRef = useRef();
