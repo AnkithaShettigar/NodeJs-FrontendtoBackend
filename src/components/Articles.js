@@ -567,8 +567,8 @@
         id:56,
         heading:"Fitness",
         descr:"Walking, lifting weights, doing chores  it's all good. Regardless of what you do, regular exercise and physical activity is the path to health and well-being. Exercise burns fat, builds muscle, lowers cholesterol, eases stress and anxiety, lets us sleep restfully. In this guide, we match resources to your exercise needs -- at every fitness level.Starting a fitness program may be one of the best things you can do for your health. After all, physical activity can reduce your risk of chronic disease, iFitness is defined as the quality or state of being fit and healthy.[5] Around 1950, perhaps consistent with the Industrial Revolution and the treatise of World War II, the term fitness increased in western vernacular by a factor of ten.[6] mprove your balance and coordination, help you lose weight, and even boost your self-esteem.",
-        // image:require("../pics/fitness.jpg")
-        image:"https://t3.ftcdn.net/jpg/00/97/03/64/240_F_97036483_wBnHi43yFJGZ3F0hrB0Af9QRv15y1rjo.jpg"
+        image:require("../pics/fitness.jpg")
+        // image:"https://t3.ftcdn.net/jpg/00/97/03/64/240_F_97036483_wBnHi43yFJGZ3F0hrB0Af9QRv15y1rjo.jpg"
       },
       { 
         id:57,
